@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vu Tran Ngoc
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=racenak&show_icons=true&theme=github_dark&hide_border=true"/>
 
 🎓 Data Engineering Student
 
@@ -52,7 +52,7 @@
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github"/>
 </p>
 
 ### Monitoring
@@ -86,28 +86,6 @@ Features
 - Star Schema
 - Incremental Loading
 - Data Quality Validation
-
----
-
-## 🎮 Online Game Leaderboard
-
-Real-time leaderboard system.
-
-**Tech**
-
-- Go
-- Kafka
-- Redis
-- PostgreSQL
-- Docker
-- Kubernetes
-
-Features
-
-- Real-time ranking
-- Event Streaming
-- High Throughput
-- Redis Cache
 
 ---
 
@@ -148,9 +126,9 @@ Features
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=racenak&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racenak&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -160,27 +138,7 @@ Features
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=2&column=4"/>
+<img src="https://streak-stats.demolab.com?user=racenak&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -229,7 +187,7 @@ Features
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=racenak&style=for-the-badge"/>
 
 </p>
 
