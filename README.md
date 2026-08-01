@@ -25,13 +25,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,java,bash,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,go,sql"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,clickhouse"/>
 </p>
 
 - ClickHouse
@@ -41,8 +41,7 @@
 - Apache Spark
 - Apache Kafka
 - dbt
-- Airbyte
-- Dagster
+- Prfect
 - Great Expectations
 - MinIO
 - OpenTelemetry
@@ -62,64 +61,6 @@
 
 ---
 
-# 📂 Featured Projects
-
-## 🚀 ELT Data Platform
-
-An end-to-end ELT platform built with modern data engineering tools.
-
-**Tech**
-
-- Airbyte
-- dbt
-- ClickHouse
-- Dagster
-- Docker
-- MinIO
-
-Features
-
-- Automated ELT Pipeline
-- Data Warehouse
-- Star Schema
-- Incremental Loading
-- Data Quality Validation
-
----
-
-## 🤖 AI Data Pipeline Monitoring
-
-AI Agent that monitors Data Pipelines.
-
-**Tech**
-
-- LangGraph
-- OpenTelemetry
-- Prometheus
-- Grafana
-- Kubernetes
-
-Features
-
-- Pipeline Health Check
-- Root Cause Analysis
-- Alert Summarization
-
----
-
-## 📈 Retail Data Warehouse
-
-Business Intelligence project using Star Schema.
-
-Features
-
-- Sales KPI
-- Revenue Dashboard
-- Customer Analytics
-- Product Analytics
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -127,33 +68,6 @@ Features
 <img src="https://streak-stats.demolab.com?user=racenak&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📚 Currently Learning
-
-- Apache Spark
-- Kafka Streams
-- Kubernetes
-- Data Lakehouse
-- Iceberg
-- Airflow
-- AI Agents
-- RAG Systems
-- MLOps
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build production-grade Data Platform
-- ✅ Master Apache Spark
-- ✅ Learn Flink
-- ✅ Deploy projects on Kubernetes
-- ✅ Contribute to Open Source
-- ✅ Land a Data Engineering Internship
-
----
 
 # 🤝 Connect with Me
 
